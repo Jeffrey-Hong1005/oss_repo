@@ -1,12 +1,6 @@
-# First repository in OSS
-
-This is the first repository of the class
+# week4 repository in OSS
 
 Today learned
-+ How to create a repository
-+ How to check the satus of my repository
-+ And more
-+ how to modify 
-
-
++ How to merge the files
++ How to make a branch not committing to my github repo
 + How to solve merge conflicts
