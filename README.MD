@@ -1,1 +1,1 @@
-HELLO
+How to solve merge conflicts
